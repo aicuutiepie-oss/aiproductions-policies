@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Terms of Service</title>
+</head>
+<body>
+<h1>Terms of Service</h1>
+<p>Welcome to the Viral Animal Video Upload Bot ("the Service").</p>
+
+<p>By using this Service, you agree to the following terms:</p>
+<ul>
+  <li>The Service uploads short-form animal videos to TikTok on behalf of the authenticated user.</li>
+  <li>The user is responsible for ensuring all uploaded content follows TikTok’s Community Guidelines.</li>
+  <li>No copyrighted content is uploaded unless the user owns the rights.</li>
+  <li>The Service stores OAuth tokens securely and uses them only for uploading videos.</li>
+  <li>You may revoke access anytime in TikTok account settings.</li>
+  <li>The Service is provided “as is” without warranties.</li>
+</ul>
+
+<p>Contact: your-email@example.com</p>
+</body>
+</html>

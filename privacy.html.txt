@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacy Policy</title>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+
+<p>This Privacy Policy explains how the Viral Animal Video Upload Bot handles your data.</p>
+
+<h2>Data We Collect</h2>
+<ul>
+  <li>TikTok OAuth access token</li>
+  <li>TikTok OAuth refresh token</li>
+  <li>Basic TikTok profile data</li>
+</ul>
+
+<h2>How We Use Data</h2>
+<ul>
+  <li>Tokens are used only to upload videos.</li>
+  <li>No data is sold, shared, or transferred to third parties.</li>
+</ul>
+
+<h2>User Control</h2>
+<ul>
+  <li>You may revoke access anytime via TikTok settings.</li>
+  <li>Data is stored only inside your private n8n server.</li>
+</ul>
+
+<p>Contact: your-email@example.com</p>
+</body>
+</html>
